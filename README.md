@@ -23,4 +23,5 @@ In the Maps below, you can see the interactive projects with three base maps and
 
 ![Screen Shot 2022-11-30 at 11 40 52 AM](https://user-images.githubusercontent.com/111788394/204863825-827da64e-d630-4869-8acc-17ae316224e8.png)
 ![Screen Shot 2022-11-30 at 11 41 19 AM](https://user-images.githubusercontent.com/111788394/204864018-4c9c2b4e-73e7-42a5-b8d9-aeb99de46e11.png)
-![Screen Shot 2022-11-30 at 11 40 52 AM](https://user-images.githubusercontent.com/111788394/204864046-c531b9ad-a49e-43b5-a3a2-c0f8d4c5527e.png)
+![Screen Shot 2022-11-30 at 12 15 51 PM](https://user-images.githubusercontent.com/111788394/204864536-fb16588d-f70c-4ede-a390-40dacf0b35cc.png)
+
