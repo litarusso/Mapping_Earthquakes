@@ -1,22 +1,22 @@
 # Mapping_Earthquakes
 ## Overview of the Analysis
-In this projects aims to do interactive maps about earthquakes in the world for last seven days. To do so, I used Leaflet.js library, Javascript, and HTML to retrieve earthquake information from a GeoJSON file.
+This project aims to do interactive maps about earthquakes in the world for the last seven days. To do so, I used the Leaflet.js library, Javascript, and HTML to retrieve earthquake information from a GeoJSON file.
 
 ### My working steps are below:
 - The tectonic plate data is added as a second layer group
 - The tectonic plate data is added to the overlay object
 - The d3.json() callback is working and does the following
  - The tectonic plate data is passed to the geoJSON() layer
- - The geoJSON() layer adds color and width to the tectonic plate lines
+ - The geoJSON() layer adds colour and width to the tectonic plate lines
  - The tectonic layer group variable is added to the map
-- The major earthquake data is added as a third layer group 
+- The major earthquake data is added as a third-layer group 
 - The major earthquake data is added to the overlay object
 - The d3.json() callback is working and does the following:
-    - Sets the color and diameter of each earthquake.
+    - Sets the colour and diameter of each earthquake.
     - The major earthquake data is passed to the geoJSON() layer.
-    - The geoJSON() layer creates a circle for each major earthquake, and adds a popup for each circle to display the magnitude and location of the     earthquake
+    - The geoJSON() layer creates a circle for each major earthquake and adds a popup for each circle to display the magnitude and location of the     earthquake
 - The major earthquake layer group variable is added to the map
-- All the earthquake data and tectonic plate data are displayed on the map when the page loads and the datasets can be toggled on or off
+- All the earthquake data and tectonic plate data are displayed on the map when the page loads, and the datasets can be toggled on or off
 
 ## Summary
 In the Maps below, you can see the interactive projects with three base maps and three options.
